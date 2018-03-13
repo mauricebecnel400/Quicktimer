@@ -1,0 +1,10 @@
+{
+  "name": "Quick Time",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Quick timer access for those who are trying to manage time while working on the computer.",
+  "browser_action": {
+    "default_icon": "QuickTimer.png",
+    "default_popup": "popup.html"
+  }
+}
